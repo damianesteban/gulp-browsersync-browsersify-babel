@@ -1,0 +1,19 @@
+{
+  "name": "gulp-starter-template",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  },
+  "resolutions": {
+    "google-apis": "~0.3.3",
+    "angular": ">= 1.1.7"
+  }
+}
